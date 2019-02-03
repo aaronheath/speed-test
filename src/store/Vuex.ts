@@ -3,6 +3,8 @@ import Vuex, { StoreOptions } from 'vuex';
 import { result } from './Result/index';
 import { RootState } from './types';
 
+// DOCS https://codeburst.io/vuex-and-typescript-3427ba78cfa8
+
 Vue.use(Vuex);
 
 const store: StoreOptions<RootState> = {

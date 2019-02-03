@@ -10,6 +10,8 @@
 </template>
 
 <script lang="ts">
+    // DOCS https://github.com/apertureless/vue-chartjs/issues/313#issuecomment-455040340
+
     // import { Bar } from 'vue-chartjs'
     // import VueCharts from 'vue-chartjs';
     // import RecentChart from './RecentChart';
