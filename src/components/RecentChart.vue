@@ -35,7 +35,7 @@
         }
     })
     export default class RecentChart extends Vue {
-        chartWidth:number = 636;
+        chartWidth:number = 552;
         chartHeight:number = 500;
 
         // labels: string[] = [];
@@ -99,7 +99,7 @@
             const result = {
                 datasets: [
                     {
-                        label: 'Date Values',
+                        label: 'Speed (Mbps)',
                         // backgroundColor: '#f87979',
                         lineTension: 0,
                         fill: false,
